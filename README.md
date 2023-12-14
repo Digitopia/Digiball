@@ -7,7 +7,11 @@ Built using an Arduino Mkr WIFI 1010 coupled with an IMU shield and a battery, a
 
 ------
 **Idea:** Óscar Rodrigues / Digitópia Casa da Música
+
 **Development and programming:** Filipe Fernandes
+
 **Design and construction:** Óscar Rodrigues
+
 **Construction support:** Filipe Fernandes
+
 **Development support:** Miguel Bastos
